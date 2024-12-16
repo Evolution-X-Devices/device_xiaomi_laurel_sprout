@@ -1,3 +1,6 @@
+# Camera
+vendor.camera.remapid=0 1 20 21 61
+
 # Fingerprint
 persist.vendor.fingerprint.type=udfps_optical
 persist.vendor.fingerprint.sensor_location=360|1423|67
