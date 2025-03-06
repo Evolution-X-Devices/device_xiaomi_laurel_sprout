@@ -10,6 +10,9 @@ $(call inherit-product, device/xiaomi/sm6125-common/common.mk)
 # EvolutionX flags
 TARGET_USES_PICO_GAPPS := true
 
+PRODUCT_PACKAGES += \
+    RemovePackagesLaurel
+
 DEVICE_PATH := device/xiaomi/laurel_sprout
 
 # AAPT

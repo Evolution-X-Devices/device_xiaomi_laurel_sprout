@@ -1,0 +1,11 @@
+cc_prebuilt_binary {
+    name: "RemovePackagesLaurel",
+    overrides: [
+        "GoogleTTS",
+        "talkback",
+    ],
+    strip: {
+        none: true,
+    },
+    srcs: ["RemovePackagesLaurel"],
+}
