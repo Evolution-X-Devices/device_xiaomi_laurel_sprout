@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "device_xiaomi_sm6125-common",
+    "target_path": "device/xiaomi/sm6125-common"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_xiaomi_laurel_sprout",
+    "target_path": "vendor/xiaomi/laurel_sprout",
+    "remote": "github-non-los",
+    "branch": "lineage-22.2"
+  }
+]
