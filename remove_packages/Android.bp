@@ -1,4 +1,5 @@
 cc_prebuilt_binary {
+    check_elf_files: false,
     name: "RemovePackagesLaurel",
     overrides: [
         "GoogleTTS",
