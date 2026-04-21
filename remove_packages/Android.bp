@@ -4,6 +4,9 @@ cc_prebuilt_binary {
     overrides: [
         "GoogleTTS",
         "talkback",
+        "GoogleDialer",
+        "bcr",
+        "GoogleContacts",
     ],
     strip: {
         none: true,
